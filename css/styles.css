@@ -1,0 +1,17 @@
+body {
+    background-color: firebrick; 
+    color: aliceblue;
+}
+h1 {colo; orange; }
+img{width:304px;height:228px;}
+
+table {
+    margin: 0;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table, th, td{ border: 1px solid red}
+
+table, th, td{ text-align: center}
